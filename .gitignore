@@ -1,3 +1,6 @@
 /inventory
 /build
 /host_vars/localhost.yml
+/.vault_pass.txt
+*.pyc
+*.swp
